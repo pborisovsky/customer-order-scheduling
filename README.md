@@ -6,7 +6,7 @@ Pavel A. Borisovsky, Aleksey O. Zakharov, Yulia V. Zakharova. "Evolutionary Algo
 
 
 
-One-machine problem.
+### One-machine problem.
 
 Problem formulation and models
 
@@ -18,7 +18,7 @@ A. Zakharov, Yu. Zakharova Integer Programming Models and Metaheuristics for
 Customer Order Scheduling, Mathematical Optimization Theory and Operations
 Research, CCIS 2024.
 
-Multi-machine problem.
+### Multi-machine problem.
 
 Problem formulation and models
 
